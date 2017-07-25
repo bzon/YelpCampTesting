@@ -9,7 +9,7 @@ Suite
 Define all tests to be executed as SLIM:
 !define TEST_SYSTEM {slim}
 !define YELP_URL {http://node-yelp-camp-yelp-camp-dev.ose.52.30.182.201.xip.io}
-!define GRID_URL {http://selenium-hub-devops-services.ose.52.30.182.201.xip.io/wd/hub}
+!define GRID_URL {http://selenium-hub:4444/wd/hub/}
 !define BROWSER {firefox}
 
 
