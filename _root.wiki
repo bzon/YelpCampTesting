@@ -8,8 +8,8 @@ Suite
 
 Define all tests to be executed as SLIM:
 !define TEST_SYSTEM {slim}
-!define YELP_URL {http://yelp-camp-dev.ose.13.228.133.252.xip.io}
-!define GRID_URL {http://selgrid.ose.13.228.133.252.xip.io/wd/hub}
+!define YELP_URL {http://node-yelp-camp-yelp-camp-dev.ose.52.30.182.201.xip.io}
+!define GRID_URL {http://selenium-hub-devops-services.ose.52.30.182.201.xip.io/wd/hub}
 !define BROWSER {firefox}
 
 
